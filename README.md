@@ -1,11 +1,11 @@
 # Cultural Bond & Depression Tendency  
-**(پروژه پیوند فرهنگی و گرایش به افسردگی)**  
 **Course:** Bio-Statistics & Probability  
 **Supervised by:** Dr. Mehrdad Saviz  
 **Authors:**  
 - Mohammad Ahadzadeh 
 - Mohammad Nima Madankar  
-- Sina Sahami 
+- Sina Sahami
+
 **Date:** May 2024  
 
 ---
